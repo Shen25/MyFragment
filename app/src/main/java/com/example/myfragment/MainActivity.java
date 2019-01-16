@@ -38,7 +38,9 @@ public class MainActivity extends FragmentActivity implements OnClickListener{
     private Fragment tab4;
     //初始化ViewP
     private ViewPager mViewPager;
+    //初始化适配器
     private FragmentPagerAdapter mAdapter;
+    //初始化Fragment
     private List<Fragment> mFragment;
 
     @Override
