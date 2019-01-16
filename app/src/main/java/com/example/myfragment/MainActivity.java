@@ -21,7 +21,7 @@ import java.util.List;
 
 
 public class MainActivity extends FragmentActivity implements OnClickListener{
-    //底部的4个导航控件
+    //底部的4个导航控件11111
     private LinearLayout mTabWeixin;
     private LinearLayout mTabFrd;
     private LinearLayout mTabAddress;
